@@ -1,0 +1,12 @@
+﻿Queston,a,b,c,d,answer
+Which is not a programming language?,Python,Java,HTML,C++,c
+"To open a file c:\scores.csv for reading, we use _______ command."," infile = open(“c:\scores.csv”, “r”)"," infile = open(“c:\\scores.csv”, “r”)"," infile = open(file = “c:\scores.csv”, “r”)","infile = open(file = “c:\\scores.csv”, “r”)",b
+ Which of the following statement(s) are true for csv files?," When you open a file for reading, if the file does not exist, an error occurs","When you open a file for writing, if the file does not exist, a new file is created","When you open a file for writing, if the file exists, the existing file is overwritten with the new file",All the above,d
+Artificial Intelligence is about_____.,Playing a game on Computer,Making a machine Intelligent,Programming on Machine with your Own Intelligence,Putting your intelligence in Machine,b
+Who is known as the -Father of AI?,Alan Turing,John McCarthy,Allen Newell,Fisher Ada,d
+The application/applications of Artificial Intelligence is/are..,Mobile,Non-Servo,Open Loop,Intelligent,d
+The full form of CSV is,Comma Separated Values,Comma Separated Value,Comma Separated Variables, Comma Separate Values,a
+ EOL character used in windows operating system in CSV file is, \r,\n, \r\n,\0,c
+The CSV files are popular because they are,capable of storing large amount of data, easier to create,preferred export and import format for databases and spread sheets,All the above,d
+ The default delimiter character of CSV file is____., : (colon),\t (tab),", (comma)", ; (semi-colon),c
+Select the most appropriate situation for that a blind search can be used.,Optimal Search, Depth First Search,Breadth-First Search,Linear Search,c
